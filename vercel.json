@@ -1,1 +1,6 @@
-{}
+{
+  "buildCommand": "cd benin-secours-client && npm run build",
+  "installCommand": "cd benin-secours-client && npm install",
+  "outputDirectory": "benin-secours-client/dist",
+  "public": "benin-secours-client/public"
+}
